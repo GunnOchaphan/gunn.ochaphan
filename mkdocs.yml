@@ -1,0 +1,5 @@
+site_name: gunn.ochaphan
+theme:
+  name: material
+plugins:
+  - blog
